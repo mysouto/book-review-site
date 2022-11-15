@@ -1,0 +1,19 @@
+body {
+    font-family: "Open Sans", sans-serif;
+}
+
+.review {
+    background-color: lightgray;
+}
+
+.review p {
+    line-height: 150%;
+}
+
+.info-section {
+    display: inline-block;
+    /* display: flex; */
+    /* flex-direction: row; */
+    /* flex-wrap: wrap; */
+}
+
